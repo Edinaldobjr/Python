@@ -1,0 +1,10 @@
+# Escreva um programa que receba um número natural n na entrada e imprima n! (fatorial) na saída.
+
+n = int(input('Digite o valor de n: '))
+p = 1
+
+while n != 0:
+    p = p * n
+    n = n - 1
+
+print(p)
