@@ -15,5 +15,3 @@ if jogo == 1:
 elif jogo == 2:
     print('Jogando adivinhação')
     Adivinhacao.jogar()
-
-testando = 0

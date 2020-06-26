@@ -1,24 +1,23 @@
-"""
-idade_str = input("Digite sua idade: ")
-idade = int(idade_str)
+
+idade = int(input("Digite sua idade: "))
 
 if idade < 12:
     print("Você é uma criança.")
-elif idade >= 12 and idade <= 18:
+elif 12 <= idade <= 18:
     print("Você é um adolescente.")
-elif idade > 18 and idade <= 60:
+elif 18 < idade <= 60:
     print("Você é um adulto.")
 else:
     print("Você é um idoso.")
 """
-idade_str = input("Digite sua idade: ")
-idade = int(idade_str)
+idade_str = int(input("Digite sua idade: "))
 
 if idade > 60:
     print("Você é um idoso.")
-elif idade > 18:
+elif idade > 19:
     print("Você é um adulto.")
-elif idade > 12:
+elif idade > 11:
     print("Você é um adolescente.")
 else:
     print("Você é uma criança.")
+"""
