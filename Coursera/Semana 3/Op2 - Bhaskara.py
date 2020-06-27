@@ -15,11 +15,10 @@ if delta > 0:
     print('Esta equação possui duas raízes reais e distintas')
     x1 = (-B + math.sqrt(delta)) / 2 * A
     x2 = (-B - math.sqrt(delta)) / 2 * A
-    print('X1 =', x1)
-    print('X2 =', x2)
+    print("As raízes da equação são {} e {}".format(x1, x2))
 elif delta == 0:
-    print('Esta equação possui uma raíz real')
+    print('Esta equação possui uma raiz real')
     x1 = (-B + math.sqrt(delta)) / 2 * A
-    print('X =', x1)
+    print('A raiz desta equação é {}'.format(x1))
 else:
-    print('Esta equação não possui raizes reais')
+    print('Esta equação não possui raízes reais.')
