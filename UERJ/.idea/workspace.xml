@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/14 - Nota final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TESTE/html/index.html" beforeDir="false" />
+    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="testando">
+      <change beforePath="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/14 - Nota final.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/14 - Nota final.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +204,8 @@
       <workItem from="1592933277855" duration="12892000" />
       <workItem from="1592997154749" duration="12582000" />
       <workItem from="1593088087238" duration="13588000" />
-      <workItem from="1593128147630" duration="3907000" />
+      <workItem from="1593128147630" duration="5477000" />
+      <workItem from="1593221279695" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -221,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593130805834</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testando">
+      <created>1593132104205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593132104205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +244,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testando" />
@@ -247,30 +255,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#Deployment/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593127231179" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1593126647760">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1593221324278">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593126647760" />
-    <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1593132018628">
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593221324278" />
+    <state width="928" height="197" key="GridCell.Tab.0.bottom" timestamp="1593138117492">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="1877" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593132018628" />
-    <state width="1877" height="197" key="GridCell.Tab.0.center" timestamp="1593132018627">
+    <state width="928" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117492" />
+    <state width="928" height="197" key="GridCell.Tab.0.center" timestamp="1593138117491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1877" height="197" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593132018627" />
-    <state width="1877" height="197" key="GridCell.Tab.0.left" timestamp="1593132018627">
+    <state width="928" height="197" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117491" />
+    <state width="928" height="197" key="GridCell.Tab.0.left" timestamp="1593138117491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1877" height="197" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593132018627" />
-    <state width="1877" height="197" key="GridCell.Tab.0.right" timestamp="1593132018627">
+    <state width="928" height="197" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117491" />
+    <state width="928" height="197" key="GridCell.Tab.0.right" timestamp="1593138117492">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1877" height="197" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593132018627" />
+    <state width="928" height="197" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117492" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1593129723829">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -286,7 +294,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UERJ$1____Numero_maior.coverage" NAME="1 -  Numero maior Coverage Results" MODIFIED="1593040370345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
-    <SUITE FILE_PATH="coverage/UERJ$14___Nota_final.coverage" NAME="14 - Nota final Coverage Results" MODIFIED="1593132018619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
+    <SUITE FILE_PATH="coverage/UERJ$14___Nota_final.coverage" NAME="14 - Nota final Coverage Results" MODIFIED="1593132427548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Idade.coverage" NAME="Idade Coverage Results" MODIFIED="1592937983345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
     <SUITE FILE_PATH="coverage/UERJ$Exercício_5.coverage" NAME="Exercício 5 Coverage Results" MODIFIED="1593089479598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 3" />
     <SUITE FILE_PATH="coverage/UERJ$10___Peso_ideal.coverage" NAME="10 - Peso ideal Coverage Results" MODIFIED="1593042451265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />

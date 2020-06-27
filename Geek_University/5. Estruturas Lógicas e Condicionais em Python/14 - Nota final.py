@@ -1,3 +1,5 @@
+print("\nPrograma para cálculo de aprovação\n")
+
 nota_1 = float(input("Digite a nota do trabalho de laboratório: "))
 if nota_1 < 0 or nota_1 > 10:
     print("Nota invalida!")
@@ -14,4 +16,10 @@ else:
         else:
 
             nota = round((nota_1 * 2 + nota_2 * 3 + nota_3 * 5) / 10, 1)
-            print('Sua nota final é: {:.1f}'.format(nota))
+
+            if nota > 4.9:
+                print('\nSua nota final é: {:.1f} você foi aprovado.'.format(nota))
+            elif nota > 2.9:
+                print('\nSua nota final é: {:.1f} você está de recuperação.'.format(nota))
+            else:
+                print('\nSua nota final é: {:.1f} você foi reprovado.'.format(nota))
