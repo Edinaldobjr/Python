@@ -1,8 +1,8 @@
-a = input('Digite a primeira nota: ')
-b = input('Digite a segunda nota: ')
-c = input('Digite a terceira nota: ')
-d = input('Digite a quarta nota: ')
+a = float(input('Digite a primeira nota: '))
+b = float(input('Digite a segunda nota: '))
+c = float(input('Digite a terceira nota: '))
+d = float(input('Digite a quarta nota: '))
 
-media = (int(a)+int(b)+int(c)+int(d))/4
+media = (a + b + c + d)/4
 
-print ('A média aritmética é', media)
+print("A média aritmética é {:.1f}".format(media))

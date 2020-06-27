@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="testando">
-      <change beforePath="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/14 - Nota final.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/14 - Nota final.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="testando" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
       <recent name="C:\Users\Ed Junior\PycharmProjects\Coursera\Semana 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14 - Nota final">
+  <component name="RunManager" selected="Python.Exercicio 2 - Média Aritmética">
     <configuration name="14 - Nota final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Geek_University" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,28 +85,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Adivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Alura" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Alura" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Alura/Adivinhacao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Exercicio 1 - Idade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UERJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +99,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 4/Exercicio 1 - Idade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercicio 2 - Média Aritmética" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Coursera/Semana 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Coursera/Semana 2/Exercicio 2 - Média Aritmética.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio 2 - Média Aritmética" />
         <item itemvalue="Python.14 - Nota final" />
         <item itemvalue="Python.Exercicio 1 - Idade" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.Jogos" />
-        <item itemvalue="Python.Adivinhacao" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +202,7 @@
       <workItem from="1592997154749" duration="12582000" />
       <workItem from="1593088087238" duration="13588000" />
       <workItem from="1593128147630" duration="5477000" />
-      <workItem from="1593221279695" duration="315000" />
+      <workItem from="1593221279695" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -228,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593132104205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testando">
+      <created>1593221756951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593221756951</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,26 +263,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593221324278" />
-    <state width="928" height="197" key="GridCell.Tab.0.bottom" timestamp="1593138117492">
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1593222143491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="928" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117492" />
-    <state width="928" height="197" key="GridCell.Tab.0.center" timestamp="1593138117491">
+    <state width="1877" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593222143491" />
+    <state width="1877" height="197" key="GridCell.Tab.0.center" timestamp="1593222143491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="928" height="197" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117491" />
-    <state width="928" height="197" key="GridCell.Tab.0.left" timestamp="1593138117491">
+    <state width="1877" height="197" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593222143491" />
+    <state width="1877" height="197" key="GridCell.Tab.0.left" timestamp="1593222143490">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="928" height="197" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117491" />
-    <state width="928" height="197" key="GridCell.Tab.0.right" timestamp="1593138117492">
+    <state width="1877" height="197" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593222143490" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right" timestamp="1593222143491">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="928" height="197" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593138117492" />
+    <state width="1877" height="197" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593222143491" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1593129723829">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -291,6 +295,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="832" y="369" width="669" height="584" key="cloudConfig.SelfSettingsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593128341124" />
+    <state x="769" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593221696784">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593221696784" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UERJ$1____Numero_maior.coverage" NAME="1 -  Numero maior Coverage Results" MODIFIED="1593040370345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
@@ -306,6 +314,7 @@
     <SUITE FILE_PATH="coverage/UERJ$43___Vendas.coverage" NAME="43 - Vendas Coverage Results" MODIFIED="1593014200127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
     <SUITE FILE_PATH="coverage/UERJ$5___Par_ou_Impar.coverage" NAME="5 - Par ou Impar Coverage Results" MODIFIED="1593040774932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Descontos.coverage" NAME="Descontos Coverage Results" MODIFIED="1592760276923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
+    <SUITE FILE_PATH="coverage/UERJ$Exercicio_2___Média_Aritmética.coverage" NAME="Exercicio 2 - Média Aritmética Coverage Results" MODIFIED="1593222143477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 2" />
     <SUITE FILE_PATH="coverage/UERJ$Exercicio_2___Impares_até_10.coverage" NAME="Exercicio 2 - Impares até 10 Coverage Results" MODIFIED="1592942062240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 4" />
     <SUITE FILE_PATH="coverage/UERJ$5___Volume_esfera__1_.coverage" NAME="5 - Volume esfera (1) Coverage Results" MODIFIED="1593089937313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 3" />
     <SUITE FILE_PATH="coverage/UERJ$online.coverage" NAME="online Coverage Results" MODIFIED="1592936827090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
