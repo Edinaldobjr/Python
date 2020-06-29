@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="testando">
-      <change afterPath="$PROJECT_DIR$/../Curso em Vídeo/Mundo 1/5 - sucessor e antecessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/15 - Dia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/16 - Mes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TESTE/Conceitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TESTE/Conceitos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,35 +62,58 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Curso em Vídeo/Mundo 1" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\Curso em Vídeo\Mundo 1" />
+      <recent name="C:\Users\Ed Junior\PycharmProjects\Alura" />
+      <recent name="C:\Users\Ed Junior\PycharmProjects\Coursera\Semana 3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 3" />
       <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 4" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Ed Junior\PycharmProjects\Alura" />
-      <recent name="C:\Users\Ed Junior\PycharmProjects\Coursera\Semana 3" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.6 - dobro tiplo e raiz">
-    <configuration name="1 - Maximo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Coursera" />
+  <component name="RunManager" selected="Python.16 - Mes">
+    <configuration name="15 - Dia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Geek_University" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Coursera/Semana 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Coursera/Semana 5/1 - Maximo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/15 - Dia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16 - Mes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Geek_University" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python/16 - Mes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,28 +166,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Op1 - Primo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Coursera" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Coursera/Semana 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Coursera/Semana 4/Op1 - Primo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Usuário" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso em Vídeo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16 - Mes" />
+        <item itemvalue="Python.15 - Dia" />
         <item itemvalue="Python.6 - dobro tiplo e raiz" />
         <item itemvalue="Python.5 - sucessor e antecessor" />
         <item itemvalue="Python.Usuário" />
-        <item itemvalue="Python.Op1 - Primo" />
-        <item itemvalue="Python.1 - Maximo" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +220,8 @@
       <workItem from="1593221279695" duration="2615000" />
       <workItem from="1593293190721" duration="6788000" />
       <workItem from="1593357058059" duration="1168000" />
-      <workItem from="1593369538548" duration="679000" />
+      <workItem from="1593369538548" duration="1542000" />
+      <workItem from="1593425367096" duration="1482000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -288,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593370010395</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="testando">
+      <created>1593370476570</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593370476570</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,26 +342,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593357892657" />
-    <state width="1867" height="184" key="GridCell.Tab.0.bottom" timestamp="1593358227331">
+    <state width="1865" height="180" key="GridCell.Tab.0.bottom" timestamp="1593426373124">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="1867" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593358227331" />
-    <state width="1867" height="184" key="GridCell.Tab.0.center" timestamp="1593358227331">
+    <state width="1865" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593426373124" />
+    <state width="1865" height="180" key="GridCell.Tab.0.center" timestamp="1593426373124">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1867" height="184" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593358227331" />
-    <state width="1867" height="184" key="GridCell.Tab.0.left" timestamp="1593358227331">
+    <state width="1865" height="180" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593426373124" />
+    <state width="1865" height="180" key="GridCell.Tab.0.left" timestamp="1593426373124">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1867" height="184" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593358227331" />
-    <state width="1867" height="184" key="GridCell.Tab.0.right" timestamp="1593358227331">
+    <state width="1865" height="180" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593426373124" />
+    <state width="1865" height="180" key="GridCell.Tab.0.right" timestamp="1593426373124">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1867" height="184" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593358227331" />
+    <state width="1865" height="180" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593426373124" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1593301406176">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -402,6 +414,7 @@
     <SUITE FILE_PATH="coverage/UERJ$ExercicioOp_1___Fatura.coverage" NAME="ExercicioOp 1 - Fatura Coverage Results" MODIFIED="1593222367193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 2" />
     <SUITE FILE_PATH="coverage/UERJ$5___sucessor_e_antecessor.coverage" NAME="5 - sucessor e antecessor Coverage Results" MODIFIED="1593370209086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Curso em Vídeo/Mundo 1" />
     <SUITE FILE_PATH="coverage/UERJ$Descontos.coverage" NAME="Descontos Coverage Results" MODIFIED="1592760276923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
+    <SUITE FILE_PATH="coverage/UERJ$16___Mes.coverage" NAME="16 - Mes Coverage Results" MODIFIED="1593426363827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Exercicio_2___Média_Aritmética.coverage" NAME="Exercicio 2 - Média Aritmética Coverage Results" MODIFIED="1593222143477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 2" />
     <SUITE FILE_PATH="coverage/UERJ$1___Maximo.coverage" NAME="1 - Maximo Coverage Results" MODIFIED="1593301409050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 5" />
     <SUITE FILE_PATH="coverage/UERJ$Exercicio_2___Impares_até_10.coverage" NAME="Exercicio 2 - Impares até 10 Coverage Results" MODIFIED="1592942062240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 4" />
@@ -410,6 +423,7 @@
     <SUITE FILE_PATH="coverage/UERJ$8___Notas_aluno.coverage" NAME="8 - Notas aluno Coverage Results" MODIFIED="1593041772310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$teste.coverage" NAME="teste Coverage Results" MODIFIED="1592593509673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
     <SUITE FILE_PATH="coverage/UERJ$Jogos.coverage" NAME="Jogos Coverage Results" MODIFIED="1593094429370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
+    <SUITE FILE_PATH="coverage/UERJ$15___Dia.coverage" NAME="15 - Dia Coverage Results" MODIFIED="1593425958700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$50___Cálculo_da_idade.coverage" NAME="50 - Cálculo da idade Coverage Results" MODIFIED="1593029270260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Exercício_8.coverage" NAME="Exercício 8 Coverage Results" MODIFIED="1592951329279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 3" />
     <SUITE FILE_PATH="coverage/UERJ$12___Milhas_para_Quilometros.coverage" NAME="12 - Milhas para Quilometros Coverage Results" MODIFIED="1593002368227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />

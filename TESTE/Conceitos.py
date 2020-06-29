@@ -17,4 +17,9 @@ end = '_' = coloca um caracter no final da linha nao pulando ela.
 
 print(f'Meu nome é {nome}')
 print(f'Meu nome é {nome.lower()}')
+
+CTRL + F = Encontrar
+CTRL + R = Substituir
+
 """
+
