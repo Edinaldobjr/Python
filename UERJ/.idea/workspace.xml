@@ -19,12 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="Geek University">
-      <change afterPath="$PROJECT_DIR$/Aula 5/1 - Valor e Tipo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 5/2 - Angulo Triangulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 5/3 - Velocidade Média.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 5/4 - Velocidade queda livre.py" afterDir="false" />
+    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ">
+      <change afterPath="$PROJECT_DIR$/Aula 5/6 - Velocidade e tempo médios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python/12 - Milhas para Quilometros.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python/12 - Milhas para Quilometros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 5/11 - Teste triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/11 - Teste triangulo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4 - Velocidade queda livre">
+  <component name="RunManager" selected="Python.12 - Milhas para Quilometros">
     <configuration name="1 - Valor e Tipo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UERJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +95,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 5/1 - Valor e Tipo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12 - Milhas para Quilometros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Geek_University" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python/12 - Milhas para Quilometros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,35 +191,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7 - media de 10 inteiros posi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Geek_University" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python/7 - media de 10 inteiros posi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12 - Milhas para Quilometros" />
         <item itemvalue="Python.4 - Velocidade queda livre" />
         <item itemvalue="Python.3 - Velocidade Média" />
         <item itemvalue="Python.2 - Angulo Triangulo" />
         <item itemvalue="Python.1 - Valor e Tipo" />
-        <item itemvalue="Python.7 - media de 10 inteiros posi" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +228,7 @@
       <workItem from="1593462823707" duration="3062000" />
       <workItem from="1593522202035" duration="2530000" />
       <workItem from="1593524750652" duration="1913000" />
-      <workItem from="1593537038682" duration="2327000" />
+      <workItem from="1593537038682" duration="5961000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -343,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593537074785</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="UERJ">
+      <created>1593539517778</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593539517778</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,7 +381,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="testando" />
     <MESSAGE value="Geek University" />
-    <option name="LAST_COMMIT_MESSAGE" value="Geek University" />
+    <MESSAGE value="UERJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="UERJ" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#Deployment" timestamp="1593127231179">
@@ -386,26 +393,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593357892657" />
-    <state width="1865" height="177" key="GridCell.Tab.0.bottom" timestamp="1593538749703">
+    <state width="1865" height="177" key="GridCell.Tab.0.bottom" timestamp="1593542837784">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="1865" height="177" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593538749703" />
-    <state width="1865" height="177" key="GridCell.Tab.0.center" timestamp="1593538749703">
+    <state width="1865" height="177" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593542837784" />
+    <state width="1865" height="177" key="GridCell.Tab.0.center" timestamp="1593542837784">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="177" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593538749703" />
-    <state width="1865" height="177" key="GridCell.Tab.0.left" timestamp="1593538749703">
+    <state width="1865" height="177" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593542837784" />
+    <state width="1865" height="177" key="GridCell.Tab.0.left" timestamp="1593542837784">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="177" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593538749703" />
-    <state width="1865" height="177" key="GridCell.Tab.0.right" timestamp="1593538749703">
+    <state width="1865" height="177" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593542837784" />
+    <state width="1865" height="177" key="GridCell.Tab.0.right" timestamp="1593542837784">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="177" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593538749703" />
+    <state width="1865" height="177" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593542837784" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1593301406176">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -513,7 +520,7 @@
     <SUITE FILE_PATH="coverage/UERJ$1___Valor_e_Tipo.coverage" NAME="1 - Valor e Tipo Coverage Results" MODIFIED="1593537754400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$Jogos.coverage" NAME="Jogos Coverage Results" MODIFIED="1593094429370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
     <SUITE FILE_PATH="coverage/UERJ$Exercício_8.coverage" NAME="Exercício 8 Coverage Results" MODIFIED="1592951329279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 3" />
-    <SUITE FILE_PATH="coverage/UERJ$12___Milhas_para_Quilometros.coverage" NAME="12 - Milhas para Quilometros Coverage Results" MODIFIED="1593002368227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
+    <SUITE FILE_PATH="coverage/UERJ$12___Milhas_para_Quilometros.coverage" NAME="12 - Milhas para Quilometros Coverage Results" MODIFIED="1593542837775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Semana_3___Bhaskara.coverage" NAME="Semana 3 - Bhaskara Coverage Results" MODIFIED="1592950224861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 3" />
     <SUITE FILE_PATH="coverage/UERJ$37___Desconto_12_.coverage" NAME="37 - Desconto 12% Coverage Results" MODIFIED="1593012008844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Fatoração.coverage" NAME="Fatoração Coverage Results" MODIFIED="1592949230379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 4" />

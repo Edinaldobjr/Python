@@ -6,3 +6,4 @@ def is_triangle(a, b, c):
         print('Yes.')
     else:
         print('No.')
+
