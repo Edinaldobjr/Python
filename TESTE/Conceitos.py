@@ -1,6 +1,6 @@
+"""
 print('O raio da esfera é: {:7.3f} cm'.format(R))
 
-"""
 {:f} = float, 
 {:d} = inteiro, 
 {:20} = imprime a string em 20 espaços,
@@ -21,5 +21,11 @@ print(f'Meu nome é {nome.lower()}')
 CTRL + F = Encontrar
 CTRL + R = Substituir
 
-"""
+.append(valor) = adiciona um valor ao final lista
+.pop() = remove o ultimo valor de uma lista
+.max() = pega o maior valor de uma lista
+.min() = pega o menor valor de uma lista
+.sorted() = ordem crescente
+.sorted(reverse=True) = ordem decrescente
 
+"""
