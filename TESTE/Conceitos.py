@@ -15,8 +15,13 @@ preenchendo com zero se precisar.
 print('O raio é: {} cm'.format(R), end='')
 end = '_' = coloca um caracter no final da linha nao pulando ela.
 
-print(f'Meu nome é {nome}')
+nome = Edinaldo
+print(f'Meu nome é {nome}') == Meu nome é Edinaldo
 print(f'Meu nome é {nome.lower()}')
+
+.lower() = caixa baixa
+.upper() = Caixa alta
+.title() = Primeira maiúscula
 
 CTRL + F = Encontrar
 CTRL + R = Substituir
