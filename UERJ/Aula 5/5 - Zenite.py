@@ -1,7 +1,6 @@
 def ang_zenite(altura, sombra):
     import math
-    teta = math.atan(sombra/altura)
-    ang = math.degrees(teta)
+    ang = math.degrees(math.atan(sombra/altura))
     return ang
 
 

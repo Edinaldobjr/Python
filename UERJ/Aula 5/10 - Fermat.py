@@ -5,7 +5,7 @@ def check_fermat(a, b, c, n):
         else:
             print('\n“No, that doesn’t work.”')
     else:
-        print('\nN needs be higher than 2!')
+        print('\n"N" must be higher than 2!')
 
 
 pri = int(input('Digite o valor de A: '))

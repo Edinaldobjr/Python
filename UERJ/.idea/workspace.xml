@@ -20,15 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ">
-      <change afterPath="$PROJECT_DIR$/Aula 5.rar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TESTE/Conceitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TESTE/Conceitos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/1 - Valor e Tipo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/1 - Valor e Tipo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula 5/10 - Fermat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/10 - Fermat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula 5/2 - Angulo Triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/2 - Angulo Triangulo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/3 - Velocidade Média.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/3 - Velocidade Média.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/4 - Velocidade queda livre.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/4 - Velocidade queda livre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/9 - baskara.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/9 - baskara.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 5/5 - Zenite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/5 - Zenite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 5/6 - Velocidade e tempo médios.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/6 - Velocidade e tempo médios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 5/7 - Cilindro e Esfera.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/7 - Cilindro e Esfera.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +82,7 @@
       <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10 - Fermat">
+  <component name="RunManager" selected="Python.9 - baskara">
     <configuration name="10 - Fermat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UERJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,9 +195,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9 - baskara" />
         <item itemvalue="Python.10 - Fermat" />
         <item itemvalue="Python.3 - Velocidade Média" />
-        <item itemvalue="Python.9 - baskara" />
         <item itemvalue="Python.8 - Comparação entre numeros" />
         <item itemvalue="Python.7 - Cilindro e Esfera" />
       </list>
@@ -237,6 +234,7 @@
       <workItem from="1593604473787" duration="3497000" />
       <workItem from="1593652466403" duration="3224000" />
       <workItem from="1593738401182" duration="2272000" />
+      <workItem from="1593961597386" duration="1428000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -406,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593655662161</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="UERJ">
+      <created>1593961615949</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1593961615949</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +547,7 @@
     <SUITE FILE_PATH="coverage/UERJ$3___Contagem_Regressiva.coverage" NAME="3 - Contagem Regressiva Coverage Results" MODIFIED="1593525664508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Semana_3___Bhaskara2.coverage" NAME="Semana 3 - Bhaskara2 Coverage Results" MODIFIED="1592950832392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 3" />
     <SUITE FILE_PATH="coverage/UERJ$7___media_de_10_inteiros_posi.coverage" NAME="7 - media de 10 inteiros posi Coverage Results" MODIFIED="1593527282712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python" />
-    <SUITE FILE_PATH="coverage/UERJ$9___baskara.coverage" NAME="9 - baskara Coverage Results" MODIFIED="1593655128212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
+    <SUITE FILE_PATH="coverage/UERJ$9___baskara.coverage" NAME="9 - baskara Coverage Results" MODIFIED="1593963434720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$Exercicio_1___Idade.coverage" NAME="Exercicio 1 - Idade Coverage Results" MODIFIED="1593442434732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 4" />
     <SUITE FILE_PATH="coverage/UERJ$Adivinhacao.coverage" NAME="Adivinhacao Coverage Results" MODIFIED="1593093089858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
     <SUITE FILE_PATH="coverage/UERJ$43___Vendas.coverage" NAME="43 - Vendas Coverage Results" MODIFIED="1593014200127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
