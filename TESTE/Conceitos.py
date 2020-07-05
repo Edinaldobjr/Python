@@ -32,5 +32,6 @@ CTRL + R = Substituir
 .min() = pega o menor valor de uma lista
 .sorted() = ordem crescente
 .sorted(reverse=True) = ordem decrescente
+.clear() = limpa a lista
 
 """

@@ -1,9 +1,6 @@
-def triangulo(x, y):
+def triangulo(cateto_oposto, cateto_adjacente):
     import math
-
-    c_o = x
-    c_e = y
-    tg_theta = c_o / c_e
+    tg_theta = cateto_oposto / cateto_adjacente
     theta = math.atan(tg_theta)
     print('O ângulo correspondente é {:.2f} graus'.format(math.degrees(theta)))
 

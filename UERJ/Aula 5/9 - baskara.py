@@ -14,7 +14,7 @@ def bhaskara(A, B, C):
         print('Esta equação não possui raízes reais.')
 
 
-print('Formula de bhaskara\n')
+print('Formula de Bhaskara\n')
 print('introduza os coeficientes da equação de segundo grau:')
 a = float(input('A: '))
 b = float(input('B: '))

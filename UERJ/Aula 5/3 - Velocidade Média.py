@@ -1,8 +1,5 @@
 def velocidade_media(posição_inicial, posição_final, tempo_decorrido):
-    p_inicial = posição_inicial
-    p_final = posição_final
-    tempo = tempo_decorrido
-    vm = (p_final - p_inicial) / tempo
+    vm = (posição_final - posição_inicial) / tempo_decorrido
     print('A velocidade média é de {:.2f} m/s'.format(vm))
 
 
