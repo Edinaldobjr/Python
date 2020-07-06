@@ -1,8 +1,6 @@
 valor = float(input('Preço "Promocional": '))
 ant = float(input('Preço Antigo: '))
 
-dif = valor / ant
+desc = (1 - valor / ant) * 100
 
-desc = (1 - dif) * 100
-
-print('Desconto de:',desc,'Porcento')
+print('Desconto de: {:.2f} %'.format(desc))

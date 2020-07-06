@@ -13,5 +13,6 @@ a = int(input('Lado A: '))
 b = int(input("Lado B: "))
 c = int(input('Lado C: '))
 
+print('\nIs triangle?')
 is_triangle(a, b, c)
 
