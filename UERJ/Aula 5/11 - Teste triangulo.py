@@ -15,4 +15,3 @@ c = int(input('Lado C: '))
 
 print('\nIs triangle?')
 is_triangle(a, b, c)
-
