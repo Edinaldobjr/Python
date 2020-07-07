@@ -1,8 +1,16 @@
 def argumento(argumento):
-    print('Valor: {}.'.format(argumento))
-    print('Tipo: {}.'.format(type(argumento)))
+    print('Valor: {} e do Tipo: {}.'.format(argumento, type(argumento)))
 
 
-x = input("Digite um argumento: ")
-
+x = 7
 argumento(x)
+print()
+
+y = 'carteiro'
+argumento(y)
+print()
+
+z = True
+argumento(z)
+
+eval()
