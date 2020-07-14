@@ -2,6 +2,7 @@ import random
 
 
 def jogar():
+
     mensagem_boas_vindas()
 
     palavra_secreta = carrega_palavra_secreta()
