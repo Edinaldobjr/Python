@@ -13,13 +13,13 @@ ok - identifique os eixos x e y
 
 x = np.linspace(0, 2, 21)
 
-plt.plot(x, x, 'b--', label='Gráfico de x = y')  # Traços Azuis
-plt.plot(x, x**2, 'go', label='Gráfico de x = y²')   # Bolas Verdes
-plt.plot(x, x**3, 'y^', label='Gráfico de x = y³')   # Triângulos Amarelos
+plt.plot(x, x, 'b--', label='Gráfico de x = y')         # Traços Azuis
+plt.plot(x, x**2, 'go', label='Gráfico de x = y²')      # Bolas Verdes
+plt.plot(x, x**3, 'y^', label='Gráfico de x = y³')      # Triângulos Amarelos
 
-plt.title('Gráficos')  # Título da Imagem
-plt.xlabel('Valores em X')  # Label do Eixo x
-plt.ylabel('Valores em Y')  # Label do Eixo y
+plt.title('Gráficos')               # Título da Imagem
+plt.xlabel('Valores em X')          # Label do Eixo x
+plt.ylabel('Valores em Y')          # Label do Eixo y
 
 #plt.axis([0, 2, -0.5, 10])
 plt.ylim(-0.5, 10)
