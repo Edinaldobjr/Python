@@ -1,5 +1,4 @@
-import Forca
-import Adivinhacao
+from Basico import Adivinhacao, Forca
 
 print('#################################')
 print('######Escolha o seu jogo!########')

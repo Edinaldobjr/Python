@@ -10,4 +10,7 @@
     <orderEntry type="module" module-name="Geek_University" />
     <orderEntry type="module" module-name="Curso em Vídeo" />
   </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
 </module>

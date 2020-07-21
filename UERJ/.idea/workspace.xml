@@ -20,11 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="Alura">
-      <change afterPath="$PROJECT_DIR$/../Geek_University/7 Colecoes Python/1 - lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Geek_University/7 Colecoes Python/2 - mostra na tela.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Geek_University/7 Colecoes Python/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTE/Pares e impares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alura/Forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Alura/Forca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alura/Basico/Forca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alura/Basico/palavras.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Alura/Orientação de Objetos/Teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 7/Exercicio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unt/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unt/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unt/.idea/unt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alura/Adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Alura/Basico/Adivinhacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alura/Forca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alura/Idade.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Alura/Basico/Idade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alura/Jogos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Alura/Basico/Jogos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alura/palavras.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UERJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UERJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +61,7 @@
       </set>
     </option>
   </component>
+  <component name="JupyterTrust" id="b9545d21-3622-47c4-b0fd-7671f5a68277" />
   <component name="ProjectId" id="1dW6WKRGtQDgE2TKNSlrUn59Wt0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,21 +82,21 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\Alura\Basico" />
+      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\Geek_University" />
+      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\UERJ\Aula 2" />
+      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\UERJ\Aula 1" />
+      <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ed Junior\PycharmProjects\Python\Geek_University\6. Estruturas de Repetição em Python" />
       <recent name="C:\Users\Ed Junior\PycharmProjects\Python\Curso em Vídeo\Mundo 1" />
       <recent name="C:\Users\Ed Junior\PycharmProjects\Alura" />
       <recent name="C:\Users\Ed Junior\PycharmProjects\Coursera\Semana 3" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\Geek_University" />
-      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\UERJ\Aula 2" />
-      <recent name="C:\Users\Ed Junior\PycharmProjects\Python\UERJ\Aula 1" />
-      <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 3" />
-      <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 4" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.3">
+  <component name="RunManager" selected="Python.Exercicio 1">
     <configuration name="1 - lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Geek_University" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,6 +163,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercicio 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UERJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 7/Exercicio 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Forca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Alura" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +195,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Alura/Forca.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Ed Junior\PycharmProjects\Python\Alura\Basico\Forca.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,22 +204,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pares e impares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TESTE" />
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Alura" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TESTE" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Ed Junior\PycharmProjects\Python\TESTE\Pares e impares.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -196,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio 1" />
+        <item itemvalue="Python.Forca" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.2 - mostra na tela" />
         <item itemvalue="Python.1 - lista" />
-        <item itemvalue="Python.Pares e impares" />
-        <item itemvalue="Python.Forca" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +277,9 @@
       <workItem from="1594682448792" duration="415000" />
       <workItem from="1594683365910" duration="188000" />
       <workItem from="1594730541647" duration="5446000" />
-      <workItem from="1594755470297" duration="1224000" />
+      <workItem from="1594755470297" duration="1864000" />
+      <workItem from="1595336309393" duration="3363000" />
+      <workItem from="1595350742533" duration="4191000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -464,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594427398006</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Alura">
+      <created>1594757726962</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1594757726962</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,26 +550,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593357892657" />
-    <state width="1865" height="218" key="GridCell.Tab.0.bottom" timestamp="1594748349116">
+    <state width="1865" height="768" key="GridCell.Tab.0.bottom" timestamp="1595337471519">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="1865" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594748349116" />
-    <state width="1865" height="218" key="GridCell.Tab.0.center" timestamp="1594748349116">
+    <state width="1865" height="768" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1595337471519" />
+    <state width="1865" height="768" key="GridCell.Tab.0.center" timestamp="1595337471519">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="218" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594748349116" />
-    <state width="1865" height="218" key="GridCell.Tab.0.left" timestamp="1594748349116">
+    <state width="1865" height="768" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1595337471519" />
+    <state width="1865" height="768" key="GridCell.Tab.0.left" timestamp="1595337471519">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="218" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594748349116" />
-    <state width="1865" height="218" key="GridCell.Tab.0.right" timestamp="1594748349116">
+    <state width="1865" height="768" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1595337471519" />
+    <state width="1865" height="768" key="GridCell.Tab.0.right" timestamp="1595337471519">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="218" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594748349116" />
+    <state width="1865" height="768" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1595337471519" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1593301406176">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -549,10 +590,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="437" y="196" key="IDE.errors.dialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594425667187" />
-    <state x="2302" y="70" key="SettingsEditor" timestamp="1594755511781">
-      <screen x="1920" y="0" width="1920" height="1050" />
+    <state x="532" y="3" key="SettingsEditor" timestamp="1595351379293">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594748206077" />
+    <state x="532" y="3" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1595351379293" />
     <state x="2302" y="70" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594755511781" />
     <state x="846" y="440" key="VCS.EditChangelistDialog" timestamp="1593130831748">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -639,7 +680,7 @@
     <SUITE FILE_PATH="coverage/UERJ$3___Velocidade_Média.coverage" NAME="3 - Velocidade Média Coverage Results" MODIFIED="1593739346010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$1____Numero_maior.coverage" NAME="1 -  Numero maior Coverage Results" MODIFIED="1593040370345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$14___Nota_final.coverage" NAME="14 - Nota final Coverage Results" MODIFIED="1593132427548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
-    <SUITE FILE_PATH="coverage/UERJ$Forca.coverage" NAME="Forca Coverage Results" MODIFIED="1594427488935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
+    <SUITE FILE_PATH="coverage/UERJ$Forca.coverage" NAME="Forca Coverage Results" MODIFIED="1595337448688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
     <SUITE FILE_PATH="coverage/UERJ$1___Fatorial.coverage" NAME="1 - Fatorial Coverage Results" MODIFIED="1593293368824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 4" />
     <SUITE FILE_PATH="coverage/UERJ$Idade.coverage" NAME="Idade Coverage Results" MODIFIED="1592937983345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Alura" />
     <SUITE FILE_PATH="coverage/UERJ$10___Peso_ideal.coverage" NAME="10 - Peso ideal Coverage Results" MODIFIED="1593042451265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
