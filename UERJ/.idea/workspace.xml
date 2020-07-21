@@ -20,24 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="Alura">
-      <change afterPath="$PROJECT_DIR$/../Alura/Basico/Forca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Alura/Basico/palavras.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Alura/Orientação de Objetos/Teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 7/Exercicio 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unt/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unt/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unt/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unt/.idea/unt.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alura/Adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Alura/Basico/Adivinhacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alura/Forca.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alura/Idade.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Alura/Basico/Idade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alura/Jogos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Alura/Basico/Jogos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Alura/palavras.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UERJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UERJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 7/Exercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/Exercicio 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +263,7 @@
       <workItem from="1594730541647" duration="5446000" />
       <workItem from="1594755470297" duration="1864000" />
       <workItem from="1595336309393" duration="3363000" />
-      <workItem from="1595350742533" duration="4191000" />
+      <workItem from="1595350742533" duration="6773000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -505,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594757726962</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Alura e UERJ">
+      <created>1595356102722</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1595356102722</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +530,8 @@
     <MESSAGE value="Geek University" />
     <MESSAGE value="UERJ" />
     <MESSAGE value="Alura" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alura" />
+    <MESSAGE value="Alura e UERJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alura e UERJ" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#Deployment" timestamp="1593127231179">
