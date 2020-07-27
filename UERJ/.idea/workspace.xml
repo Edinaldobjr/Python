@@ -20,6 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="Alura">
+      <change afterPath="$PROJECT_DIR$/Aula 8/Exercicio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 8/Exercicio 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 8/Exercicio 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 8/Exercicio 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 8/Exercicio 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 8/Exercicio 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aula 7/Exercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 7/Exercicio 1.py" afterDir="false" />
     </list>
@@ -61,7 +68,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula 8" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -151,6 +158,9 @@
       <module name="UERJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 7" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -263,7 +273,11 @@
       <workItem from="1594730541647" duration="5446000" />
       <workItem from="1594755470297" duration="1864000" />
       <workItem from="1595336309393" duration="3363000" />
-      <workItem from="1595350742533" duration="6773000" />
+      <workItem from="1595350742533" duration="7350000" />
+      <workItem from="1595362204461" duration="152000" />
+      <workItem from="1595431467925" duration="684000" />
+      <workItem from="1595880349389" duration="60000" />
+      <workItem from="1595880504253" duration="272000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -496,7 +510,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595356102722</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Alura e UERJ">
+      <created>1595358539616</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1595358539616</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Alura e UERJ">
+      <created>1595358615337</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1595358615337</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,10 +610,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="437" y="196" key="IDE.errors.dialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594425667187" />
-    <state x="532" y="3" key="SettingsEditor" timestamp="1595351379293">
+    <state x="532" y="3" key="SettingsEditor" timestamp="1595432188010">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="532" y="3" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1595351379293" />
+    <state x="532" y="3" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1595432188010" />
     <state x="2302" y="70" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594755511781" />
     <state x="846" y="440" key="VCS.EditChangelistDialog" timestamp="1593130831748">
       <screen x="0" y="0" width="1920" height="1050" />

@@ -21,7 +21,7 @@ plt.title('Gráficos')               # Título da Imagem
 plt.xlabel('Valores em X')          # Label do Eixo x
 plt.ylabel('Valores em Y')          # Label do Eixo y
 
-#plt.axis([0, 2, -0.5, 10])
+# plt.axis([0, 2, -0.5, 10])
 plt.ylim(-0.5, 10)
 plt.xlim(0, 2)
 
