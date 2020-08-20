@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ">
-      <change afterPath="$PROJECT_DIR$/../TESTE/Parametros_d7tetra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTE/conta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python/15 - Triangulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python/2 - Data por extenso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python/7 - Conversão para Fahrenheit e Celsius.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTE/ParametroC_d3octa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geek_University/7 Colecoes Python/1 - lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Geek_University/7. Colecoes Python/1 - lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geek_University/7 Colecoes Python/2 - mostra na tela.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Geek_University/7. Colecoes Python/2 - mostra na tela.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Geek_University/7 Colecoes Python/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Geek_University/7. Colecoes Python/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TESTE/Parametros_d7tetra.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TESTE/Parametros_d7tetra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +51,9 @@
         <option value="https://github.com/Edinaldobjr/Python.git" />
       </set>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../TESTE/Parametros_d7tetra.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JupyterTrust" id="b9545d21-3622-47c4-b0fd-7671f5a68277" />
   <component name="ProjectId" id="1dW6WKRGtQDgE2TKNSlrUn59Wt0" />
@@ -82,43 +91,65 @@
       <recent name="C:\Users\Ed Junior\PycharmProjects\UERJ\Aula 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Parametros_d7tetra">
-    <configuration name="Exercicio 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UERJ" />
+  <component name="RunManager" selected="Python.15 - Triangulo">
+    <configuration name="15 - Triangulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Geek_University" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 8/Exercicio 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python/15 - Triangulo.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UERJ" />
+    <configuration name="2 - Data por extenso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Geek_University" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula 8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 8/Exercicio 6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python/2 - Data por extenso.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ParametroC_d3octa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TESTE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TESTE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TESTE/ParametroC_d3octa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,29 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TESTE" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TESTE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TESTE/conta.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="asdfadsfa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Alura" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +193,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/asdfadsfa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15 - Triangulo" />
+        <item itemvalue="Python.2 - Data por extenso" />
+        <item itemvalue="Python.ParametroC_d3octa" />
         <item itemvalue="Python.Parametros_d7tetra" />
-        <item itemvalue="Python.conta" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.Exercicio 2" />
-        <item itemvalue="Python.Exercicio 6" />
+        <item itemvalue="Python.asdfadsfa" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +265,10 @@
       <workItem from="1597679803110" duration="58000" />
       <workItem from="1597680020351" duration="1472000" />
       <workItem from="1597685806898" duration="1369000" />
-      <workItem from="1597768040465" duration="1871000" />
+      <workItem from="1597768040465" duration="6042000" />
+      <workItem from="1597774762801" duration="3422000" />
+      <workItem from="1597849563213" duration="1698000" />
+      <workItem from="1597876487403" duration="6970000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -517,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597685828792</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="asdf">
+      <created>1597770150721</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1597770150721</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +572,8 @@
     <MESSAGE value="Alura e UERJ" />
     <MESSAGE value="UERJ" />
     <MESSAGE value="teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+    <MESSAGE value="asdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdf" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#Deployment" timestamp="1593127231179">
@@ -572,26 +592,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593357892657" />
-    <state width="1865" height="281" key="GridCell.Tab.0.bottom" timestamp="1597769820998">
+    <state width="1865" height="494" key="GridCell.Tab.0.bottom" timestamp="1597883362478">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="1865" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597769820998" />
-    <state width="1865" height="281" key="GridCell.Tab.0.center" timestamp="1597769820998">
+    <state width="1865" height="494" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597883362478" />
+    <state width="1865" height="494" key="GridCell.Tab.0.center" timestamp="1597883362478">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="281" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597769820998" />
-    <state width="1865" height="281" key="GridCell.Tab.0.left" timestamp="1597769820997">
+    <state width="1865" height="494" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597883362478" />
+    <state width="1865" height="494" key="GridCell.Tab.0.left" timestamp="1597883362478">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="281" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597769820997" />
-    <state width="1865" height="281" key="GridCell.Tab.0.right" timestamp="1597769820998">
+    <state width="1865" height="494" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597883362478" />
+    <state width="1865" height="494" key="GridCell.Tab.0.right" timestamp="1597883362478">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1865" height="281" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597769820998" />
+    <state width="1865" height="494" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597883362478" />
     <state width="1865" height="335" key="GridCell.Tab.1.bottom" timestamp="1597681495261">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -668,11 +688,12 @@
     <SUITE FILE_PATH="coverage/UERJ$3___Contagem_Regressiva.coverage" NAME="3 - Contagem Regressiva Coverage Results" MODIFIED="1593525664508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python" />
     <SUITE FILE_PATH="coverage/UERJ$5___sucessor_e_antecessor.coverage" NAME="5 - sucessor e antecessor Coverage Results" MODIFIED="1593370209086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Curso em Vídeo/Mundo 1" />
     <SUITE FILE_PATH="coverage/UERJ$14___Nota_final.coverage" NAME="14 - Nota final Coverage Results" MODIFIED="1593132427548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
-    <SUITE FILE_PATH="coverage/UERJ$Parametros_d7tetra.coverage" NAME="Parametros_d7tetra Coverage Results" MODIFIED="1597769793419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
+    <SUITE FILE_PATH="coverage/UERJ$Parametros_d7tetra.coverage" NAME="Parametros_d7tetra Coverage Results" MODIFIED="1597849707841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
     <SUITE FILE_PATH="coverage/UERJ$10___Peso_ideal.coverage" NAME="10 - Peso ideal Coverage Results" MODIFIED="1593042451265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$1___Valor_e_Tipo.coverage" NAME="1 - Valor e Tipo Coverage Results" MODIFIED="1594148930611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$6___Velocidade_e_tempo_médios.coverage" NAME="6 - Velocidade e tempo médios Coverage Results" MODIFIED="1593546363511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$2___1_até_100_3x.coverage" NAME="2 - 1 até 100 3x Coverage Results" MODIFIED="1593524351564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python" />
+    <SUITE FILE_PATH="coverage/UERJ$2___Data_por_extenso.coverage" NAME="2 - Data por extenso Coverage Results" MODIFIED="1597877992765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python" />
     <SUITE FILE_PATH="coverage/UERJ$20___Triangulo.coverage" NAME="20 - Triangulo Coverage Results" MODIFIED="1593439806717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$11___parede.coverage" NAME="11 - parede Coverage Results" MODIFIED="1594054863226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Curso em Vídeo/Mundo 1" />
     <SUITE FILE_PATH="coverage/UERJ$16___Mes.coverage" NAME="16 - Mes Coverage Results" MODIFIED="1593426363827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
@@ -689,6 +710,7 @@
     <SUITE FILE_PATH="coverage/UERJ$7___media_de_10_inteiros_posi.coverage" NAME="7 - media de 10 inteiros posi Coverage Results" MODIFIED="1593527282712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/6. Estruturas de Repetição em Python" />
     <SUITE FILE_PATH="coverage/UERJ$2___mostra_na_tela.coverage" NAME="2 - mostra na tela Coverage Results" MODIFIED="1594747793058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/7 Colecoes Python" />
     <SUITE FILE_PATH="coverage/UERJ$Op1___Distância_entre_dois_pontos.coverage" NAME="Op1 - Distância entre dois pontos Coverage Results" MODIFIED="1593223362136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 3" />
+    <SUITE FILE_PATH="coverage/UERJ$15___Triangulo.coverage" NAME="15 - Triangulo Coverage Results" MODIFIED="1597883357669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python" />
     <SUITE FILE_PATH="coverage/UERJ$8___Notas_aluno.coverage" NAME="8 - Notas aluno Coverage Results" MODIFIED="1593041772310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$1___Fatorial.coverage" NAME="1 - Fatorial Coverage Results" MODIFIED="1593293368824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 4" />
     <SUITE FILE_PATH="coverage/UERJ$12___Milhas_para_Quilometros.coverage" NAME="12 - Milhas para Quilometros Coverage Results" MODIFIED="1593542837775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
@@ -714,7 +736,9 @@
     <SUITE FILE_PATH="coverage/UERJ$Semana_5.coverage" NAME="Semana 5 Coverage Results" MODIFIED="1593300403108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 5" />
     <SUITE FILE_PATH="coverage/UERJ$3___Velocidade_Média.coverage" NAME="3 - Velocidade Média Coverage Results" MODIFIED="1593739346010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$Exercicio_1___Idade.coverage" NAME="Exercicio 1 - Idade Coverage Results" MODIFIED="1593442434732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 4" />
+    <SUITE FILE_PATH="coverage/UERJ$asdfadsfa.coverage" NAME="asdfadsfa Coverage Results" MODIFIED="1597777580980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/UERJ$1___lista.coverage" NAME="1 - lista Coverage Results" MODIFIED="1594745878507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/7 Colecoes Python" />
+    <SUITE FILE_PATH="coverage/UERJ$ParametroC_d3octa.coverage" NAME="ParametroC_d3octa Coverage Results" MODIFIED="1597850604100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
     <SUITE FILE_PATH="coverage/UERJ$36___Venda_Comissão.coverage" NAME="36 - Venda-Comissão Coverage Results" MODIFIED="1593522917766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/5. Estruturas Lógicas e Condicionais em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Exercício_5.coverage" NAME="Exercício 5 Coverage Results" MODIFIED="1593089479598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 3" />
     <SUITE FILE_PATH="coverage/UERJ$Descontos.coverage" NAME="Descontos Coverage Results" MODIFIED="1594324157416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
