@@ -1,5 +1,4 @@
-x = 1
-while x != 's':
+while True:
     valor = float(input('\nPreço "Promocional": '))
     ant = float(input('Preço Antigo: '))
 
@@ -7,4 +6,6 @@ while x != 's':
 
     print('Desconto de: {:.2f} %\n'.format(desc))
 
-    x = input('Para terminar digite (s) ')
+    x = input('Para terminar digite (Q) ').strip().upper()
+    if x == 'Q':
+        break
