@@ -19,45 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ">
-      <change afterPath="$PROJECT_DIR$/../TESTE/gog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020.2/Aula 1/1 - Mundo vasto mundo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020.2/Aula 1/2 - Help print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020.2/Aula 1/3 - Operações matemáticas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TESTE/Parametros_d7tetra.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TESTE/Parametros_d7tetra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 1/Aula 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 1/Aula 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 2/Aula 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 2/Aula 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/5 - Volume esfera.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/5 - Volume esfera.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 3/Exercício 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 3/Exercício 9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 4/Exercicio 1 - Idade.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 4/Exercicio 1 - Idade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 4/Exercicio 2 - Impares até 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 4/Exercicio 2 - Impares até 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/1 - Valor e Tipo.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/1 - Valor e Tipo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/10 - Fermat.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/10 - Fermat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/11 - Teste triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/11 - Teste triangulo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/2 - Angulo Triangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/2 - Angulo Triangulo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/3 - Velocidade Média.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/3 - Velocidade Média.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/4 - Velocidade queda livre.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/4 - Velocidade queda livre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/5 - Zenite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/5 - Zenite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/6 - Velocidade e tempo médios.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/6 - Velocidade e tempo médios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/7 - Cilindro e Esfera.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/7 - Cilindro e Esfera.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/8 - Comparação entre numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/8 - Comparação entre numeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 5/9 - baskara.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 5/9 - baskara.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 7/Exercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 7/Exercicio 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 8/Exercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 8/Exercicio 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 8/Exercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 8/Exercicio 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 8/Exercicio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 8/Exercicio 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 8/Exercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 8/Exercicio 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 8/Exercicio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 8/Exercicio 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 8/Exercicio 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.1/Aula 8/Exercicio 6.py" afterDir="false" />
-    </list>
+    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020.2/Aula 1/2 - Help print.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Ed Junior\PycharmProjects\Python\UERJ\2020.2\Aula 1\2 - Help print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,7 +280,7 @@
       <workItem from="1598303885036" duration="93000" />
       <workItem from="1598475212480" duration="1951000" />
       <workItem from="1600433989160" duration="690000" />
-      <workItem from="1600434865781" duration="267000" />
+      <workItem from="1600434865781" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -638,10 +600,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#Deployment/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593127231179" />
-    <state x="80" y="166" key="#Plugins" timestamp="1600435133269">
+    <state x="80" y="166" key="#Plugins" timestamp="1600435143646">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="80" y="166" key="#Plugins/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600435133269" />
+    <state x="80" y="166" key="#Plugins/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600435143646" />
     <state x="410" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595881761287">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
