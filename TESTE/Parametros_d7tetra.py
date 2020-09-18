@@ -8,8 +8,8 @@ diagrama de Tanabe-Sugano d3 octaédrico). Quando observada a transição:
 
 
 def lambda_cm1(l):
-    cm = (1 / l) * 10 ** 7
     """Converte comprimento de onda em energia(cm-1)."""
+    cm = (1 / l) * 10 ** 7
     return cm
 
 
