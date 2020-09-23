@@ -35,3 +35,6 @@ CTRL + R = Substituir
 .clear() = limpa a lista
 
 """
+print("cm\u0304\u00b2")
+print("cm\u207b\u00b9")
+print("cm\u0304\u00b9")
