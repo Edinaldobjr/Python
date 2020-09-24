@@ -12,6 +12,6 @@ preco_compra = preco_livro * total_livros * (1 - desconto / 100)
 
 frete = envio_1 + (total_livros - 1) * envio_resto
 
-preco_total = (preco_compra) + (frete)
+preco_total = preco_compra + frete
 
-print('O preço total gasto para comprar 60 livros foi de {:.2f} Reais.'.format(preco_total))
+print('O preço para a compra de 60 livros é de {:.2f} Reais.'.format(preco_total))

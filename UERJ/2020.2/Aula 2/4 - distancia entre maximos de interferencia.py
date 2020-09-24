@@ -8,11 +8,11 @@ Dica: a distância entre dois máximos de interferência consecutivos pode ser a
 Delta_y = (lambda * D) / d
 
 """
-lamb = 632.8 * 10**(-9)
+lamb = 632.8 * 10 ** (-9)     # em manometros
 D = 1.98
-d = 0.250 * 10**(-3)
+d = 0.250 * 10 ** (-3)        # em milimetros
 
 Delta_y = (lamb * D) / d
 
-print('A distância entre os dois máximos consecutivos de interferencia é de {} m ou de aproximadamente {:.0f} mm.'
+print('A distância entre os dois máximos consecutivos de interferencia é de {} m ou aproximadamente {:.0f} mm.'
       .format(Delta_y, Delta_y * 1000))
