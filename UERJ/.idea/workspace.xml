@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020.2/Aula 2/3 - desconto em livro.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.2/Aula 2/3 - desconto em livro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020.2/Aula 2/4 - distancia entre maximos de interferencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.2/Aula 2/4 - distancia entre maximos de interferencia.py" afterDir="false" />
-    </list>
+    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,7 +285,7 @@
       <workItem from="1600739578959" duration="175000" />
       <workItem from="1600770190605" duration="293000" />
       <workItem from="1600870889100" duration="5493000" />
-      <workItem from="1600905383499" duration="1873000" />
+      <workItem from="1600905383499" duration="2097000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -564,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597883543093</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Uerj aula2">
+      <created>1600912817013</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1600912817013</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +605,8 @@
     <MESSAGE value="teste" />
     <MESSAGE value="asdf" />
     <MESSAGE value="geek" />
-    <option name="LAST_COMMIT_MESSAGE" value="geek" />
+    <MESSAGE value="Uerj aula2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uerj aula2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#Deployment" timestamp="1593127231179">
@@ -625,26 +629,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593357892657" />
-    <state width="1877" height="258" key="GridCell.Tab.0.bottom" timestamp="1600905958787">
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom" timestamp="1600912820138">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600905958787" />
-    <state width="1877" height="258" key="GridCell.Tab.0.center" timestamp="1600905958787">
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600912820138" />
+    <state width="1877" height="258" key="GridCell.Tab.0.center" timestamp="1600912820138">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1877" height="258" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600905958787" />
-    <state width="1877" height="258" key="GridCell.Tab.0.left" timestamp="1600905958786">
+    <state width="1877" height="258" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600912820138" />
+    <state width="1877" height="258" key="GridCell.Tab.0.left" timestamp="1600912820137">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1877" height="258" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600905958786" />
-    <state width="1877" height="258" key="GridCell.Tab.0.right" timestamp="1600905958787">
+    <state width="1877" height="258" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600912820137" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right" timestamp="1600912820138">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="1877" height="258" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600905958787" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600912820138" />
     <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1600608493202">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
