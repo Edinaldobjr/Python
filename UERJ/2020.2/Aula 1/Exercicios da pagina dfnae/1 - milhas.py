@@ -17,5 +17,5 @@ velocidade_milhas = dist_mi / tempo_total_hora    # velocidade em milhas
 
 tempo_milha = 1 / velocidade_milhas     # tempo por milha
 
-print('com velocidade média é de {:.2f} milhas por hora e com tempo médio por' 
-      'milha de {:.2f}'.format(velocidade_milhas, tempo_milha))
+print(f'com velocidade média é de {velocidade_milhas:.2f} milhas por hora e com tempo médio por ' 
+      f'milha de {tempo_milha:.2f}.')

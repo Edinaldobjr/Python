@@ -1,6 +1,8 @@
 """
 print('O raio da esfera é: {:7.3f} cm'.format(R))
 
+print(f'O raio da esfera é: {R:7.3f} cm')
+
 {:f} = float, 
 {:d} = inteiro, 
 {:20} = imprime a string em 20 espaços,
@@ -12,7 +14,7 @@ print('O raio da esfera é: {:7.3f} cm'.format(R))
 {:07.2f} preencher com 0 até 7 casas total contando com a virgula e arredondar para duas casas apos a virgula 
 preenchendo com zero se precisar.
 
-print('O raio é: {} cm'.format(R), end='')
+print(f'O raio é: {R} cm', end='')
 end = '_' = coloca um caracter no final da linha nao pulando ela.
 
 nome = Edinaldo
