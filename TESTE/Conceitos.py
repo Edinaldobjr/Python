@@ -35,8 +35,9 @@ CTRL + R = Substituir
 .sorted() = ordem crescente
 .sorted(reverse=True) = ordem decrescente
 .clear() = limpa a lista
+.strip() = remove os espaços desnecessarios em uma digitação
 
 """
 print("cm\u0304\u00b2")
-print("cm\u207b\u00b9")
+print("cm\u207b\u00b9")     # melhor
 print("cm\u0304\u00b9")
