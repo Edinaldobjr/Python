@@ -7,4 +7,9 @@ massa = 11           # quilogramas
 
 imc = massa / altura ** 2
 
-print(f'O IMC é de {imc:.2f} que está na região saudável.')
+if 20 <= imc <= 25:
+    print(f'O IMC é de {imc:.2f} que está saudável.')
+elif imc < 20:
+    print(f'O IMC é de {imc:.2f} que está magro.')
+else:
+    print(f'O IMC é de {imc:.2f} que está obeso.')

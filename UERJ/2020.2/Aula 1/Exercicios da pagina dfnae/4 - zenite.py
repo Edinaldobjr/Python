@@ -1,5 +1,5 @@
 """
-Se, ao meiodia, a sombra de um poste de 5 m de altura tem apenas 50 cm de comprimento no chão, qual o ângulo zenital
+Se, ao meio dia, a sombra de um poste de 5 m de altura tem apenas 50 cm de comprimento no chão, qual o ângulo zenital
 do sol?
 """
 import math
