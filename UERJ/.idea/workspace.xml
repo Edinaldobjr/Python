@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ">
-      <change afterPath="$PROJECT_DIR$/2020.2/Aula 4/1 - Spam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,6 +296,7 @@
       <workItem from="1601641960343" duration="69000" />
       <workItem from="1601811267678" duration="435000" />
       <workItem from="1601814176609" duration="277000" />
+      <workItem from="1601890514531" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -601,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601338940688</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="asdf">
+      <created>1601890850130</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1601890850130</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -636,11 +641,11 @@
     <MESSAGE value="Alura" />
     <MESSAGE value="Alura e UERJ" />
     <MESSAGE value="teste" />
-    <MESSAGE value="asdf" />
     <MESSAGE value="geek" />
     <MESSAGE value="Uerj aula2" />
     <MESSAGE value="UERJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="UERJ" />
+    <MESSAGE value="asdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdf" />
   </component>
   <component name="WindowStateProjectService">
     <state x="80" y="166" key="#Plugins" timestamp="1600435143646">
