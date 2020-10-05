@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91176639-44dd-4463-8c36-4113c38f8476" name="Default Changelist" comment="UERJ">
+      <change afterPath="$PROJECT_DIR$/2020.2/Aula 4/1 - Spam.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020.2/Aula 1/Exercicios da pagina dfnae/4 - zenite.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.2/Aula 1/Exercicios da pagina dfnae/4 - zenite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020.2/Aula 1/Exercicios da pagina dfnae/5 - imc.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.2/Aula 1/Exercicios da pagina dfnae/5 - imc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020.2/Aula 3/1 - Argumento e Valor.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020.2/Aula 3/1 - Argumento e Valor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Aula 8" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -101,8 +99,8 @@
       <recent name="C:\Users\Ed Junior\PycharmProjects\Coursera\Semana 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5 - imc">
-    <configuration name="1 - Argumento e Valor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ssss">
+    <configuration name="1 - Spam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UERJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020.2/Aula 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020.2/Aula 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020.2/Aula 3/1 - Argumento e Valor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020.2/Aula 4/1 - Spam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,28 +136,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020.2/Aula 3/2 - Velocidade Média.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5 - IMC, Volume e Difração" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UERJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020.2/Aula 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020.2/Aula 3/5 - IMC, Volume e Difração.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,13 +188,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ssss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Alura" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/ssss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ssss" />
+        <item itemvalue="Python.1 - Spam" />
         <item itemvalue="Python.5 - imc" />
         <item itemvalue="Python.6 - queda livre" />
         <item itemvalue="Python.2 - Velocidade Média" />
-        <item itemvalue="Python.1 - Argumento e Valor" />
-        <item itemvalue="Python.5 - IMC, Volume e Difração" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +293,12 @@
       <workItem from="1600994079644" duration="4995000" />
       <workItem from="1601037277744" duration="318000" />
       <workItem from="1601040403777" duration="5250000" />
-      <workItem from="1601337479485" duration="1165000" />
+      <workItem from="1601337479485" duration="1486000" />
+      <workItem from="1601475609678" duration="492000" />
+      <workItem from="1601637259222" duration="1348000" />
+      <workItem from="1601641960343" duration="69000" />
+      <workItem from="1601811267678" duration="435000" />
+      <workItem from="1601814176609" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="testando">
       <created>1593128323645</created>
@@ -591,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601337507627</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="UERJ">
+      <created>1601338940688</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1601338940688</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,10 +643,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="UERJ" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="183" key="#Deployment" timestamp="1593127231179">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="552" y="183" key="#Deployment/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593127231179" />
     <state x="80" y="166" key="#Plugins" timestamp="1600435143646">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -653,26 +659,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593357892657" />
-    <state width="916" height="260" key="GridCell.Tab.0.bottom" timestamp="1601338635141">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1601814454145">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402305" />
-    <state width="916" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601338635141" />
-    <state width="916" height="260" key="GridCell.Tab.0.center" timestamp="1601338635141">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601814454145" />
+    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1601814454145">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="916" height="260" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601338635141" />
-    <state width="916" height="260" key="GridCell.Tab.0.left" timestamp="1601338635141">
+    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601814454145" />
+    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1601814454145">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="916" height="260" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601338635141" />
-    <state width="916" height="260" key="GridCell.Tab.0.right" timestamp="1601338635141">
+    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601814454145" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1601814454145">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1592951402304" />
-    <state width="916" height="260" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601338635141" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601814454145" />
     <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1600608493202">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -693,23 +695,15 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="437" y="196" key="IDE.errors.dialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1594425667187" />
-    <state x="532" y="3" key="SettingsEditor" timestamp="1597974850869">
+    <state x="532" y="3" key="SettingsEditor" timestamp="1601642025285">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="532" y="3" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1597974850869" />
+    <state x="532" y="3" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601642025285" />
     <state x="2302" y="70" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594755511781" />
-    <state x="846" y="440" key="VCS.EditChangelistDialog" timestamp="1593130831748">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="846" y="440" key="VCS.EditChangelistDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593130831748" />
     <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1601037560807">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601037560807" />
-    <state x="832" y="369" width="669" height="584" key="cloudConfig.SelfSettingsDialog" timestamp="1593128341124">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="832" y="369" width="669" height="584" key="cloudConfig.SelfSettingsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1593128341124" />
     <state x="769" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593221696784">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -820,6 +814,7 @@
     <SUITE FILE_PATH="coverage/UERJ$8___Comparação_entre_numeros.coverage" NAME="8 - Comparação entre numeros Coverage Results" MODIFIED="1593654711144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$11___Teste_triangulo.coverage" NAME="11 - Teste triangulo Coverage Results" MODIFIED="1594039697738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1597686101471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/UERJ$1___Spam.coverage" NAME="1 - Spam Coverage Results" MODIFIED="1601637906528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020.2/Aula 4" />
     <SUITE FILE_PATH="coverage/UERJ$5___Zenite.coverage" NAME="5 - Zenite Coverage Results" MODIFIED="1593653242642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 5" />
     <SUITE FILE_PATH="coverage/UERJ$impares.coverage" NAME="impares Coverage Results" MODIFIED="1594745512893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
     <SUITE FILE_PATH="coverage/UERJ$2___volume_esfera.coverage" NAME="2 - volume esfera Coverage Results" MODIFIED="1600905439423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020.2/Aula 2" />
@@ -828,7 +823,7 @@
     <SUITE FILE_PATH="coverage/UERJ$50___Cálculo_da_idade.coverage" NAME="50 - Cálculo da idade Coverage Results" MODIFIED="1593029270260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/4. Variáveis e Tipos de Dados em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Exercício_8.coverage" NAME="Exercício 8 Coverage Results" MODIFIED="1592951329279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 3" />
     <SUITE FILE_PATH="coverage/UERJ$gog.coverage" NAME="gog Coverage Results" MODIFIED="1598303933474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TESTE" />
-    <SUITE FILE_PATH="coverage/UERJ$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1600770299178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/UERJ$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1601814409127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/UERJ$17___Soma_entre_2_numeros.coverage" NAME="17 - Soma entre 2 numeros Coverage Results" MODIFIED="1597941721055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Geek_University/8. Funcoes em Python" />
     <SUITE FILE_PATH="coverage/UERJ$Semana_5.coverage" NAME="Semana 5 Coverage Results" MODIFIED="1593300403108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera/Semana 5" />
     <SUITE FILE_PATH="coverage/UERJ$5___IMC__Volume_e_Difração.coverage" NAME="5 - IMC, Volume e Difração Coverage Results" MODIFIED="1601044915226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020.2/Aula 3" />
